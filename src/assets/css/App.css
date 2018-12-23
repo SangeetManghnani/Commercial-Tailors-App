@@ -3,3 +3,7 @@ h1 {
   font-weight: 200;
 }
 
+@font-face{
+  font-family: 'Product';
+  src: url('../fonts/ProductBold.ttf');
+}
